@@ -1,94 +1,74 @@
-# Suresh Subedi - Portfolio
+# Suresh Subedi - Developer Extraordinaire
 
-<style>
-  body {
-    font-family: 'Arial', sans-serif;
-    line-height: 1.6;
-    margin: 40px;
-  }
+**Computer Engineering Student | Aspiring App Developer | Trekking Enthusiast**
 
-  h1, h2, h3 {
-    color: #333;
-  }
+![Suresh Subedi](url_to_profile_photo)
 
-  h2 {
-    border-bottom: 2px solid #333;
-    padding-bottom: 5px;
-  }
-
-  ul {
-    list-style: none;
-    padding: 0;
-  }
-
-  li {
-    margin-bottom: 10px;
-  }
-
-  a {
-    color: #007BFF;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-
-  #photo-gallery img {
-    max-width: 100%;
-    height: auto;
-    margin-bottom: 20px;
-  }
-</style>
+---
 
 ## About Me
 
-Hello, I'm Suresh Subedi, a passionate computer engineering student from Nepal. I am dedicated to honing my skills in coding and app development. My focused approach and commitment define my work ethic.
+Hello, I'm Suresh Subedi, a passionate computer engineering student from Nepal. My journey revolves around code, creativity, and conquering mountain peaks.
+
+---
 
 ## Skills
 
-- Programming Languages: Python, Java, C++
-- Web Development: HTML, CSS, JavaScript, React
-- Mobile App Development: Android Studio, Flutter
-- Other: Git, GitHub, Data Structures, Algorithms
+- **Programming Languages:** Python, Java, C++
+- **Web Development:** HTML, CSS, JavaScript, React
+- **Mobile App Development:** Android Studio, Flutter
+- **Other:** Git, GitHub, Data Structures, Algorithms
+
+---
 
 ## Projects
 
 ### App Development
 
-#### Project 1: Task Manager App
-- Developed a task manager application using Flutter.
-- Implemented features for adding, updating, and deleting tasks.
+1. **Task Manager App**
+   - Developed a task manager application using Flutter.
+   - Implemented features for adding, updating, and deleting tasks.
 
-#### Project 2: Weather App
-- Created a weather app using React for real-time weather updates.
-- Integrated with a weather API to fetch accurate information.
+2. **Weather App**
+   - Created a weather app using React for real-time weather updates.
+   - Integrated with a weather API to fetch accurate information.
 
 ### Coding Challenges
 
-#### HackerRank Solutions
-- Regularly solve coding challenges on HackerRank.
+- Regularly solve coding challenges on [HackerRank](https://www.hackerrank.com/sureshsubedi).
 - Achieved a 5-star rating in problem-solving.
+
+---
 
 ## Hobbies
 
-Apart from coding, I enjoy trekking, exploring the scenic landscapes of Nepal. Combining my love for technology and nature is what drives me.
+Apart from coding, I find solace in:
+
+- Trekking through the breathtaking landscapes of Nepal.
+- Crafting elegant code that brings ideas to life.
+
+---
 
 ## Short Term Goals
 
-My short-term goal is to earn money while enhancing my skills in app development.
+My immediate goal is to:
+
+- **Earn Money:** Exploring opportunities while enhancing my app development skills.
+
+---
 
 ## Photo Gallery
 
-<div id="photo-gallery">
-  <img src="url_to_trekking_photo" alt="Trekking">
-  <img src="url_to_coding_photo" alt="Coding">
-</div>
+![Trekking](url_to_trekking_photo)
+![Coding](url_to_coding_photo)
 
-## Contact
+---
 
-- Email: sureshsubedi@example.com
-- LinkedIn: [Suresh Subedi](https://www.linkedin.com/in/sureshsubedi/)
-- GitHub: [GitHub Profile](https://github.com/sureshsubedi)
+## Connect with Me
 
-Feel free to reach out if you have any inquiries or opportunities!
+- **Email:** [sureshsubedi@example.com](mailto:sureshsubedi@example.com)
+- **LinkedIn:** [Suresh Subedi](https://www.linkedin.com/in/sureshsubedi/)
+- **GitHub:** [GitHub Profile](https://github.com/sureshsubedi)
+
+Feel free to reach out for exciting collaborations or conversations!
+
