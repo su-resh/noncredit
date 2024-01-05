@@ -2,7 +2,7 @@
 
 **Computer Engineering Student | Aspiring App Developer | Trekking Enthusiast**
 
-![Suresh Subedi](url_to_profile_photo)
+![Suresh Subedi](https://drive.google.com/file/d/13W7T50SzXpjaoUS1XmUxUPBNsc6fGA1l/view?usp=sharing)
 
 ---
 
@@ -59,8 +59,8 @@ My immediate goal is to:
 
 ## Photo Gallery
 
-![Trekking](url_to_trekking_photo)
-![Coding](url_to_coding_photo)
+![Trekking](https://drive.google.com/file/d/13W7T50SzXpjaoUS1XmUxUPBNsc6fGA1l/view?usp=sharing)
+![Coding](https://drive.google.com/file/d/13W7T50SzXpjaoUS1XmUxUPBNsc6fGA1l/view?usp=sharing)
 
 ---
 
